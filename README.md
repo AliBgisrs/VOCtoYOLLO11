@@ -30,11 +30,17 @@ data.yaml file for YOLO model configuration.
 Tags:
 
 PASCAL VOC: The input dataset format for the tool.
+
 YOLO: The output format for the tool.
+
 Dataset Conversion: Conversion of datasets between different formats.
+
 Data Splitting: Dividing the dataset into training and validation sets.
+
 Deep Learning: Used for preparing datasets for deep learning models.
+
 Image Annotation: Converts image annotations from VOC XML format to YOLO text format.
+
 Machine Learning: Preparing datasets for object detection using YOLO.
 
 
